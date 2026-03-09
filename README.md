@@ -1,9 +1,9 @@
 # Collection-for-Infrared-dim-and-small-target-detection-methods
 Infrared small target detection (IRSTD) algorithms, datasets, and experimental tools.
 
-A repository for infrared small target detection (IRSTD) algorithms, datasets, and experimental tools.
-This project aims to provide some references for researchers working on infrared weak and small target detection, including classical methods, deep learning models, datasets, and their corresponding links.
-The repository integrates representative algorithms and datasets commonly used in the IRSTD community, enabling convenient algorithm comparison, reproduction, and further research.
+This project aims to provide some references for researchers working on infrared weak and small target detection, including classical methods, deep learning models, datasets, and their corresponding links. The repository integrates representative algorithms and datasets commonly used in the IRSTD community, enabling convenient algorithm comparison, reproduction, and further research. You can download the materials from:【链接: https://pan.baidu.com/s/1W_K17m_V4MXNjIv4Ivrn_Q 提取码: m3kv】.
+
+If you think our work is helpful, please cite the papers of these excellent methods as well as our papers! Thank you! We are also very appreciate for everyone's contribution to this area and your helpful sharing! If there is problem please don't hesitate to contact us!
 
 Features:
 
